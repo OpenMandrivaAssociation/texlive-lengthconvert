@@ -1,6 +1,6 @@
 Name:		texlive-lengthconvert
 Version:	55064
-Release:	1
+Release:	2
 Summary:	Express lengths in arbitrary units
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lengthconvert
