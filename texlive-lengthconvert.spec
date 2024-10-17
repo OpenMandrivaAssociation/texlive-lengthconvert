@@ -3,7 +3,7 @@ Version:	55064
 Release:	2
 Summary:	Express lengths in arbitrary units
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lengthconvert
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lengthconvert
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lengthconvert.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lengthconvert.doc.r%{version}.tar.xz
